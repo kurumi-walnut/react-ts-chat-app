@@ -1,8 +1,4 @@
-# Pretty Chat React/Typescript
-
-This project is a pretty full-stack chat app built with React and Typesctipt.
-
-To learn how this project works, watch the following YouTube tutorial.
+# Chat App using React and Typescript
 
 ## Setup
 
